@@ -1,4 +1,4 @@
-from .missile import Missile
+from missile import Missile
 
 class GuidedMissile(Missile):
     """
